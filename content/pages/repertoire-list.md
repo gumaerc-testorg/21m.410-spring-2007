@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Repertoire List
 uid: 0221515b-867b-12f0-5038-02e04d2549fa
 ---
