@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the list of works covered by the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Repertoire List
