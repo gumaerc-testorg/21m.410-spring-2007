@@ -5,6 +5,7 @@ file: /courses/21m-410-vocal-repertoire-and-performance-women-composers-spring-2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: recital_program.pdf
 uid: b1b59ccc-7e65-f424-8c01-41eabda1cd38
 ---
 Example of student work: recital program with notes.
-

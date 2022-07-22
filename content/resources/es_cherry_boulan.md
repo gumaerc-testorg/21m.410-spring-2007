@@ -5,6 +5,7 @@ file: /courses/21m-410-vocal-repertoire-and-performance-women-composers-spring-2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: es_cherry_boulan.pdf
 uid: 2c6ddf00-692b-9a76-4fe6-46e8063031be
 ---
 Example of student work: "Nadia Boulanger" by Elaina Cherry.
-

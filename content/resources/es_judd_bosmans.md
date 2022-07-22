@@ -5,6 +5,7 @@ file: /courses/21m-410-vocal-repertoire-and-performance-women-composers-spring-2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: es_judd_bosmans.pdf
 uid: 8f7ec070-091d-d5fb-bbd7-c458de3201e5
 ---
 Example of student work: "Henri?tte Bosmans" by Tilke Judd.
-

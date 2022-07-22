@@ -5,6 +5,7 @@ file: /courses/21m-410-vocal-repertoire-and-performance-women-composers-spring-2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: es_fernan_price.pdf
 uid: 3ff7cb23-cb60-3a28-6cce-bd155951f953
 ---
 Example of student work: "Florence Beatrice Price" by Jodie-Marie Fernandes.
-

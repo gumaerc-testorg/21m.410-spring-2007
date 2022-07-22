@@ -5,6 +5,7 @@ file: /courses/21m-410-vocal-repertoire-and-performance-women-composers-spring-2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: outline_park_col.pdf
 uid: f6e99ca9-b127-a561-ce45-d8e22b229c24
 ---
 Accompanying outline handout for a student oral report.
-
