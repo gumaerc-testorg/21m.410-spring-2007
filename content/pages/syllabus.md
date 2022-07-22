@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides information about course meeting times,
+  content, requirements, the women composers studied, and key dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: bb75eadc-6a4d-bbcd-aa04-ec100b9481f3
 ---
@@ -31,7 +35,7 @@ Requirements
 Timeline
 --------
 
-A Timeline of the Women Composers Studied ([PDF]({{< baseurl >}}/resources/timeline))
+A Timeline of the Women Composers Studied ({{% resource_link 292a2d4d-89b3-2119-ad92-ea982c837bc7 "PDF" %}})
 
 Calendar
 --------
