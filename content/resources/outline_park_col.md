@@ -2,6 +2,7 @@
 content_type: resource
 description: Accompanying outline handout for a student oral report.
 file: /courses/21m-410-vocal-repertoire-and-performance-women-composers-spring-2007/f6e99ca9b127a561ce45d8e22b229c24_outline_park_col.pdf
+file_size: 252678
 file_type: application/pdf
 learning_resource_types:
 - Assignments
