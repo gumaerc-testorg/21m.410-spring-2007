@@ -2,6 +2,7 @@
 content_type: resource
 description: A timeline of the women composers studied in the course.
 file: /courses/21m-410-vocal-repertoire-and-performance-women-composers-spring-2007/292a2d4d89b32119ad92ea982c837bc7_timeline.pdf
+file_size: 10170
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
