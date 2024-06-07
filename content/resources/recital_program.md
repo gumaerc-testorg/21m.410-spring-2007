@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Example of student work: recital program with notes.'
 file: /courses/21m-410-vocal-repertoire-and-performance-women-composers-spring-2007/b1b59ccc7e65f4248c0141eabda1cd38_recital_program.pdf
+file_size: 306296
 file_type: application/pdf
 learning_resource_types:
 - Assignments
