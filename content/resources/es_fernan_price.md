@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Example of student work: "Florence Beatrice Price" by Jodie-Marie Fernandes.'
-file: /ol-ocw-studio-app/courses/21m-410-vocal-repertoire-and-performance-women-composers-spring-2007/3ff7cb23cb603a286ccebd155951f953_es_fernan_price.pdf
+file: /courses/21m-410-vocal-repertoire-and-performance-women-composers-spring-2007/3ff7cb23cb603a286ccebd155951f953_es_fernan_price.pdf
 file_size: 94429
 file_type: application/pdf
 learning_resource_types:

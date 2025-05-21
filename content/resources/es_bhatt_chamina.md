@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Example of student work: "C?cile Chaminade," by Koyel Bhattacharyya.'
-file: /ol-ocw-studio-app/courses/21m-410-vocal-repertoire-and-performance-women-composers-spring-2007/a4a9ecfda8a80ff1c92f0315484e5f8c_es_bhatt_chamina.pdf
+file: /courses/21m-410-vocal-repertoire-and-performance-women-composers-spring-2007/a4a9ecfda8a80ff1c92f0315484e5f8c_es_bhatt_chamina.pdf
 file_size: 18886
 file_type: application/pdf
 learning_resource_types:
