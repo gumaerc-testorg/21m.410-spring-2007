@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Example of student work: "The Trials and Triumphs of Isabella Colbran,"
   by Barratt Park.'
-file: /courses/21m-410-vocal-repertoire-and-performance-women-composers-spring-2007/33beadd92de25aba3773113d0940eae7_es_park_colbran.pdf
+file: /ol-ocw-studio-app/courses/21m-410-vocal-repertoire-and-performance-women-composers-spring-2007/33beadd92de25aba3773113d0940eae7_es_park_colbran.pdf
 file_size: 21472
 file_type: application/pdf
 learning_resource_types:
